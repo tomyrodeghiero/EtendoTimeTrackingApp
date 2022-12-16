@@ -1,0 +1,133 @@
+import {StyleSheet} from 'react-native';
+import {COLORS, SHADOWS, SIZES} from '../theme';
+
+export const stylesNextDayTasks = StyleSheet.create({
+  activityIndicator: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  backButton: {
+    height: 40,
+    width: 40,
+    borderRadius: 100,
+    backgroundColor: '#eff1f7',
+    borderWidth: 1,
+    borderColor: '#d3d6e1',
+    justifyContent: 'center',
+    margin: 25,
+    alignItems: 'center',
+  },
+  backArrowImage: {
+    width: 20,
+    resizeMode: 'contain',
+  },
+  titleContainer: {
+    lexDirection: 'row',
+    justifyContent: 'space-between',
+    marginHorizontal: 25,
+  },
+  titleContainerText: {
+    color: COLORS.primary,
+    fontFamily: 'Inter-ExtraBold',
+    fontSize: 22,
+  },
+  taskListContainer: {
+    marginHorizontal: 20,
+    marginVertical: 10,
+    height: '30%',
+  },
+  taskContainer: {
+    backgroundColor: COLORS.white,
+    borderRadius: SIZES.smallBase,
+    marginBottom: SIZES.medium,
+    margin: SIZES.base,
+    ...SHADOWS.medium,
+    width: '100%',
+  },
+  taskTextContainer: {
+    width: '100%',
+    minHeight: 55,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 20,
+  },
+  taskText: {
+    marginHorizontal: 10,
+    marginVertical: 5,
+    fontFamily: 'Inter-Medium',
+    fontSize: SIZES.small,
+    color: COLORS.primary,
+  },
+  keyTaskContainer: {
+    padding: 7,
+    borderRadius: 7,
+    borderWidth: 1,
+    borderColor: '#D3D6E1',
+    backgroundColor: '#EFF1F7',
+  },
+  keyTaskText: {
+    color: COLORS.primary,
+    fontSize: SIZES.small,
+  },
+  nextDayTaskListContainer: {
+    height: '25%',
+    backgroundColor: '#7182ff',
+    borderWidth: 1,
+    borderColor: '#e5e5e5',
+    padding: 15,
+    borderRadius: 20,
+    marginBottom: 20,
+    marginHorizontal: 20,
+  },
+  nextDayTaskListTitleSection: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  singleTaskContainer: {
+    flexDirection: 'row',
+  },
+  nextDayTaskListImage: {
+    width: 30,
+    resizeMode: 'contain',
+    height: 30,
+    tintColor: COLORS.white,
+  },
+  textTitleTaskListNextDay: {
+    textAlignVertical: 'center',
+    marginLeft: 10,
+    fontFamily: 'Inter-Medium',
+    color: COLORS.white,
+  },
+  textSingleNextDayTask: {
+    fontFamily: 'Inter-Medium',
+    color: COLORS.white,
+    marginTop: 10,
+  },
+  jiraButtonContainer: {
+    width: '100%',
+    height: 50,
+    backgroundColor: '#eff1f7',
+    borderWidth: 1,
+    borderColor: '#e5e5e5',
+    position: 'absolute',
+    borderRadius: 5,
+    alignItems: 'center',
+    justifyContent: 'center',
+    top: 0,
+    left: 0,
+  },
+  imageJira: {
+    width: 35,
+    resizeMode: 'contain',
+    height: 35,
+    position: 'absolute',
+    left: 15,
+  },
+  jiraButtonText: {
+    justifyContent: 'center',
+    fontSize: SIZES.medium,
+    fontFamily: 'Inter-Medium',
+    color: COLORS.primary,
+  },
+});

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/tomi/Documents/ReactJS-ReactNative/ReactNative/Etendo/EtendoTimeTracking/android/app"
+    name=":app"
+    type="APP"
+    maven="EtendoTimeTracking:app:"
+    gradle="7.2.1"
+    buildFolder="build"
+    bootClassPath="/home/tomi/Android/Sdk/platforms/android-31/android.jar:/home/tomi/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

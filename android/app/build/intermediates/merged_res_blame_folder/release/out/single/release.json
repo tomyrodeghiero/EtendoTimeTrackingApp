@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_time.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_time.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_worklog.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_worklog.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_searchuser.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_searchuser.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_timeandcalendar.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_timeandcalendar.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_calendarsecundary.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_calendarsecundary.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_badge.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_badge.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_nextday.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_nextday.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_question.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_question.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_help.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_help.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_information.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_information.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_hiddenpassword.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_hiddenpassword.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_futitlogotype.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_futitlogotype.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_todolist.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_todolist.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_backcalendar.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_backcalendar.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_key.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_key.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_back.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_back.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_token.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_token.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_search.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_search.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_record.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_record.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_visiblepassword.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_visiblepassword.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_jira.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_jira.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.etendotimetracking.app-main-30:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_calendar.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_calendar.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_home.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_home.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_email.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_email.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_moreusers.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_moreusers.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_more.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_more.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.etendotimetracking.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_id.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_id.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_teamhelp.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_teamhelp.png"
+    },
+    {
+        "merged": "com.etendotimetracking.app-merged_res-29:/drawable-mdpi_src_assets_images_whiteetendologo.png.flat",
+        "source": "com.etendotimetracking.app-react-24:/drawable-mdpi/src_assets_images_whiteetendologo.png"
+    }
+]
